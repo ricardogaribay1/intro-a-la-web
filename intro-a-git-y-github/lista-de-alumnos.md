@@ -6,3 +6,9 @@
 3. Yatzil
 4. Mariela
 
+## Segunda Linea
+
+- Aislynn
+- Emmanuel
+- Manuel
+- Ernesto
