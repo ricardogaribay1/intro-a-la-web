@@ -43,11 +43,15 @@ p {
 #parrafo-1 {
     /*background-color: beige;*/
     background-clip: border-box;
+    width: 200px;
+    height: 40px;
 }
 
 #parrafo-2 {
     background-color: beige;
     background-clip: padding-box;
+    width: 250px;
+    height: 40px;
 }
 
 #parrafo-3 {
@@ -59,4 +63,17 @@ h2 {
     background: linear-gradient(102deg, rgba(2,0,36,1) 0%, rgba(208,227,73,1) 35%, rgba(22,214,235,1) 93%, rgba(5,215,241,1) 94%, rgba(0,212,255,1) 100%);
     background-clip: text;
     color: transparent
+}
+
+span {
+    color: blue;
+    background-color: black;
+    border: solid green 3px;
+    padding: 5px;
+    margin: 16px;
+    width: 100px;
+    height: 50px;
+    /*display: inline-block;*/
+    display:block;
+    
 }
